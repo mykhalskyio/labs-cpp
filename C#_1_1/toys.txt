@@ -1,0 +1,12 @@
+Ball; 145,75; 7
+Constructor; 72,00; 3
+Doll; 119,00; 3
+Cubes; 338,50; 3
+Doll; 99,75; 7
+Constructor; 150,25; 10
+Doll; 402,75; 4
+Cubes; 194,00; 3
+Ball; 280,50; 8
+Ball; 100,25; 3
+Cubes; 78,75; 9
+Constructor; 52,25; 5
